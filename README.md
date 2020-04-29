@@ -1,2 +1,2 @@
 # ProjetoIntegrador
-Projeto de Software da disciplina 'Projeto Integrador' realizado na graduação em Sistemas de Informação da Faculdade Uninassau Olinda
+Projeto de Software da disciplina 'Projeto Integrador' realizado para conclusão da graduação em Sistemas de Informação na Faculdade Uninassau Olinda
